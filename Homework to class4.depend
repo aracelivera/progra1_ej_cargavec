@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1619126106 source:c:\users\juant\desktop\programacion\clase 16-4 pasaje de parametros y cargavec\tarea-carga y mostrar vector\homework to class4\main.c
+	"funciones.h"
+
+1619126106 c:\users\juant\desktop\programacion\clase 16-4 pasaje de parametros y cargavec\tarea-carga y mostrar vector\homework to class4\funciones.h
+	<stdio.h>
+	<stdlib.h>
+
+1619126106 source:c:\users\juant\desktop\programacion\clase 16-4 pasaje de parametros y cargavec\tarea-carga y mostrar vector\homework to class4\funciones.c
+	"funciones.h"
+
